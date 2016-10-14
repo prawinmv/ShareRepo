@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="82091" started-at="2016-10-13T12:12:48Z" finished-at="2016-10-13T12:14:10Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="82091" started-at="2016-10-13T12:12:48Z" finished-at="2016-10-13T12:14:10Z">
+      <class name="testcase.PageObjectModel">
+        <test-method status="PASS" signature="browserSetUp()[pri:0, instance:testcase.PageObjectModel@edf4efb]" name="browserSetUp" is-config="true" duration-ms="9007" started-at="2016-10-13T17:42:48Z" finished-at="2016-10-13T17:42:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetUp -->
+        <test-method status="PASS" signature="moduleActions(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcase.PageObjectModel@edf4efb]" name="moduleActions" duration-ms="56687" started-at="2016-10-13T17:42:57Z" data-provider="Data" finished-at="2016-10-13T17:43:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[202]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[202]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Prawin]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- moduleActions -->
+        <test-method status="PASS" signature="moduleActions(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcase.PageObjectModel@edf4efb]" name="moduleActions" duration-ms="3796" started-at="2016-10-13T17:43:53Z" data-provider="Data" finished-at="2016-10-13T17:43:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[279]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[279]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Vinoth Kumar Rajendaran]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- moduleActions -->
+        <test-method status="PASS" signature="moduleActions(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcase.PageObjectModel@edf4efb]" name="moduleActions" duration-ms="12438" started-at="2016-10-13T17:43:57Z" data-provider="Data" finished-at="2016-10-13T17:44:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[213]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[213]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Pugazhenthi K]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- moduleActions -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcase.PageObjectModel@edf4efb]" name="tearDown" is-config="true" duration-ms="0" started-at="2016-10-13T17:44:10Z" finished-at="2016-10-13T17:44:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcase.PageObjectModel -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

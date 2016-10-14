@@ -1,0 +1,228 @@
+2016-10-13 13:00:06,753 INFO  [Log] New driver instantiated 
+2016-10-13 13:01:45,800 INFO  [Log] New driver instantiated 
+2016-10-13 13:02:11,393 INFO  [Log] New driver instantiated 
+2016-10-13 14:04:19,327 INFO  [Log] New driver instantiated 
+2016-10-13 14:08:12,580 INFO  [Log] New driver instantiated 
+2016-10-13 14:10:09,589 INFO  [Log] New driver instantiated 
+2016-10-13 14:12:41,698 INFO  [Log] New driver instantiated 
+2016-10-13 14:48:38,285 INFO  [Log] New driver instantiated 
+2016-10-13 14:50:15,282 INFO  [Log] New driver instantiated 
+2016-10-13 14:52:17,884 INFO  [Log] New driver instantiated 
+2016-10-13 14:52:52,020 INFO  [Log] New driver instantiated 
+2016-10-13 14:54:02,183 INFO  [Log] New driver instantiated 
+2016-10-13 14:54:02,453 INFO  [Log] Log In link element found 
+2016-10-13 14:54:02,477 INFO  [Log] Click action performed on Landing Page 
+2016-10-13 14:54:02,497 INFO  [Log] Log In link element found 
+2016-10-13 14:54:02,515 INFO  [Log] Click action performed on Landing Page 
+2016-10-13 14:54:02,533 INFO  [Log] Log In link element found 
+2016-10-13 14:54:02,554 INFO  [Log] Click action performed on Landing Page 
+2016-10-13 14:55:06,044 INFO  [Log] New driver instantiated 
+2016-10-13 14:55:06,240 INFO  [Log] Log In link element found 
+2016-10-13 14:55:06,262 INFO  [Log] Click action performed on Landing Page 
+2016-10-13 14:55:06,820 INFO  [Log] Username text box found 
+2016-10-13 14:55:06,874 INFO  [Log] Username entered in the Username text box 
+2016-10-13 14:55:06,888 INFO  [Log] Password text box found 
+2016-10-13 14:55:06,932 INFO  [Log] Password entered in the Password text box 
+2016-10-13 14:55:07,970 INFO  [Log] Submit button found 
+2016-10-13 14:55:08,744 INFO  [Log] Login button clicked 
+2016-10-13 14:55:09,688 INFO  [Log] My Account name element found 
+2016-10-13 14:55:09,702 INFO  [Log] Account name identification performed 
+2016-10-13 14:55:09,710 INFO  [Log] Log out element found 
+2016-10-13 14:55:09,726 INFO  [Log] Logout img clicked 
+2016-10-13 14:55:09,737 INFO  [Log] Log In link element found 
+2016-10-13 14:55:09,754 INFO  [Log] Click action performed on Landing Page 
+2016-10-13 14:55:50,949 INFO  [Log] Username text box found 
+2016-10-13 14:55:51,011 INFO  [Log] Username entered in the Username text box 
+2016-10-13 14:55:51,018 INFO  [Log] Password text box found 
+2016-10-13 14:55:51,049 INFO  [Log] Password entered in the Password text box 
+2016-10-13 14:55:52,069 INFO  [Log] Submit button found 
+2016-10-13 14:55:52,116 INFO  [Log] Login button clicked 
+2016-10-13 14:55:52,678 INFO  [Log] My Account name element found 
+2016-10-13 14:55:52,709 INFO  [Log] Account name identification performed 
+2016-10-13 14:55:52,741 INFO  [Log] Log out element found 
+2016-10-13 14:55:52,790 INFO  [Log] Logout img clicked 
+2016-10-13 14:55:52,821 INFO  [Log] Log In link element found 
+2016-10-13 14:55:52,852 INFO  [Log] Click action performed on Landing Page 
+2016-10-13 14:55:53,102 INFO  [Log] Username text box found 
+2016-10-13 14:55:53,149 INFO  [Log] Username entered in the Username text box 
+2016-10-13 14:55:53,161 INFO  [Log] Password text box found 
+2016-10-13 14:55:53,177 INFO  [Log] Password entered in the Password text box 
+2016-10-13 14:55:54,195 INFO  [Log] Submit button found 
+2016-10-13 14:55:54,273 INFO  [Log] Login button clicked 
+2016-10-13 14:55:54,851 INFO  [Log] My Account name element found 
+2016-10-13 14:55:54,898 INFO  [Log] Account name identification performed 
+2016-10-13 14:55:54,914 INFO  [Log] Log out element found 
+2016-10-13 14:55:54,960 INFO  [Log] Logout img clicked 
+2016-10-13 15:04:55,307 INFO  [Log] New driver instantiated 
+2016-10-13 15:04:55,498 INFO  [Log] Log In link element found 
+2016-10-13 15:04:55,521 INFO  [Log] Click action performed on Landing Page 
+2016-10-13 15:04:56,000 INFO  [Log] Username text box found 
+2016-10-13 15:04:56,026 INFO  [Log] Username entered in the Username text box 
+2016-10-13 15:04:56,033 INFO  [Log] Password text box found 
+2016-10-13 15:04:56,058 INFO  [Log] Password entered in the Password text box 
+2016-10-13 15:04:57,087 INFO  [Log] Submit button found 
+2016-10-13 15:04:57,731 INFO  [Log] Login button clicked 
+2016-10-13 15:04:58,807 INFO  [Log] My Account name element found 
+2016-10-13 15:04:58,894 INFO  [Log] Account name identification performed 
+2016-10-13 15:04:58,912 INFO  [Log] Log out element found 
+2016-10-13 15:04:58,936 INFO  [Log] Logout img clicked 
+2016-10-13 15:04:59,986 INFO  [Log] Log In link element found 
+2016-10-13 15:05:00,061 INFO  [Log] Click action performed on Landing Page 
+2016-10-13 15:05:00,287 INFO  [Log] Username text box found 
+2016-10-13 15:05:00,313 INFO  [Log] Username entered in the Username text box 
+2016-10-13 15:05:00,323 INFO  [Log] Password text box found 
+2016-10-13 15:05:00,350 INFO  [Log] Password entered in the Password text box 
+2016-10-13 15:05:01,377 INFO  [Log] Submit button found 
+2016-10-13 15:05:01,462 INFO  [Log] Login button clicked 
+2016-10-13 15:05:02,020 INFO  [Log] My Account name element found 
+2016-10-13 15:05:02,044 INFO  [Log] Account name identification performed 
+2016-10-13 15:05:02,071 INFO  [Log] Log out element found 
+2016-10-13 15:05:02,129 INFO  [Log] Logout img clicked 
+2016-10-13 15:07:09,496 INFO  [Log] New driver instantiated 
+2016-10-13 15:07:09,669 INFO  [Log] Log In link element found 
+2016-10-13 15:07:09,692 INFO  [Log] Click action performed on Landing Page 
+2016-10-13 15:07:10,039 INFO  [Log] Username text box found 
+2016-10-13 15:07:10,168 INFO  [Log] Username entered in the Username text box 
+2016-10-13 15:07:10,177 INFO  [Log] Password text box found 
+2016-10-13 15:07:10,210 INFO  [Log] Password entered in the Password text box 
+2016-10-13 15:07:11,245 INFO  [Log] Submit button found 
+2016-10-13 15:07:12,166 INFO  [Log] Login button clicked 
+2016-10-13 15:07:13,167 INFO  [Log] My Account name element found 
+2016-10-13 15:07:13,225 INFO  [Log] Account name identification performed 
+2016-10-13 15:07:13,238 INFO  [Log] Log out element found 
+2016-10-13 15:07:13,301 INFO  [Log] Logout img clicked 
+2016-10-13 15:07:14,348 INFO  [Log] Log In link element found 
+2016-10-13 15:07:14,416 INFO  [Log] Click action performed on Landing Page 
+2016-10-13 15:07:14,643 INFO  [Log] Username text box found 
+2016-10-13 15:07:14,691 INFO  [Log] Username entered in the Username text box 
+2016-10-13 15:07:14,710 INFO  [Log] Password text box found 
+2016-10-13 15:07:14,749 INFO  [Log] Password entered in the Password text box 
+2016-10-13 15:07:15,762 INFO  [Log] Submit button found 
+2016-10-13 15:07:15,799 INFO  [Log] Login button clicked 
+2016-10-13 15:07:16,422 INFO  [Log] My Account name element found 
+2016-10-13 15:07:16,456 INFO  [Log] Account name identification performed 
+2016-10-13 15:07:16,474 INFO  [Log] Log out element found 
+2016-10-13 15:07:16,550 INFO  [Log] Logout img clicked 
+2016-10-13 15:07:17,595 INFO  [Log] Log In link element found 
+2016-10-13 15:07:17,659 INFO  [Log] Click action performed on Landing Page 
+2016-10-13 15:07:17,923 INFO  [Log] Username text box found 
+2016-10-13 15:07:17,954 INFO  [Log] Username entered in the Username text box 
+2016-10-13 15:07:17,965 INFO  [Log] Password text box found 
+2016-10-13 15:07:17,985 INFO  [Log] Password entered in the Password text box 
+2016-10-13 15:07:19,012 INFO  [Log] Submit button found 
+2016-10-13 15:07:19,077 INFO  [Log] Login button clicked 
+2016-10-13 15:07:19,603 INFO  [Log] My Account name element found 
+2016-10-13 15:07:19,634 INFO  [Log] Account name identification performed 
+2016-10-13 15:07:19,651 INFO  [Log] Log out element found 
+2016-10-13 15:07:19,703 INFO  [Log] Logout img clicked 
+2016-10-13 15:23:52,219 INFO  [Log] New driver instantiated 
+2016-10-13 15:23:52,415 INFO  [Log] Log In link element found 
+2016-10-13 15:23:52,439 INFO  [Log] Click action performed on Landing Page 
+2016-10-13 15:23:53,368 INFO  [Log] Username text box found 
+2016-10-13 15:23:53,406 INFO  [Log] Username entered in the Username text box 
+2016-10-13 15:23:53,416 INFO  [Log] Password text box found 
+2016-10-13 15:23:53,444 INFO  [Log] Password entered in the Password text box 
+2016-10-13 15:23:54,475 INFO  [Log] Submit button found 
+2016-10-13 15:23:55,260 INFO  [Log] Login button clicked 
+2016-10-13 15:23:56,948 INFO  [Log] My Account name element found 
+2016-10-13 15:23:56,974 INFO  [Log] Account name identification performed 
+2016-10-13 15:23:56,986 INFO  [Log] Log out element found 
+2016-10-13 15:23:57,018 INFO  [Log] Logout img clicked 
+2016-10-13 15:23:58,061 INFO  [Log] Log In link element found 
+2016-10-13 15:23:58,112 INFO  [Log] Click action performed on Landing Page 
+2016-10-13 15:23:58,353 INFO  [Log] Username text box found 
+2016-10-13 15:23:58,384 INFO  [Log] Username entered in the Username text box 
+2016-10-13 15:23:58,395 INFO  [Log] Password text box found 
+2016-10-13 15:23:58,416 INFO  [Log] Password entered in the Password text box 
+2016-10-13 15:23:59,466 INFO  [Log] Submit button found 
+2016-10-13 15:23:59,540 INFO  [Log] Login button clicked 
+2016-10-13 15:24:00,283 INFO  [Log] My Account name element found 
+2016-10-13 15:24:00,329 INFO  [Log] Account name identification performed 
+2016-10-13 15:24:00,341 INFO  [Log] Log out element found 
+2016-10-13 15:24:00,377 INFO  [Log] Logout img clicked 
+2016-10-13 15:24:01,434 INFO  [Log] Log In link element found 
+2016-10-13 15:24:01,469 INFO  [Log] Click action performed on Landing Page 
+2016-10-13 15:24:01,732 INFO  [Log] Username text box found 
+2016-10-13 15:24:01,777 INFO  [Log] Username entered in the Username text box 
+2016-10-13 15:24:01,789 INFO  [Log] Password text box found 
+2016-10-13 15:24:01,813 INFO  [Log] Password entered in the Password text box 
+2016-10-13 15:24:02,837 INFO  [Log] Submit button found 
+2016-10-13 15:24:02,900 INFO  [Log] Login button clicked 
+2016-10-13 15:24:03,420 INFO  [Log] My Account name element found 
+2016-10-13 15:24:03,450 INFO  [Log] Account name identification performed 
+2016-10-13 15:24:03,467 INFO  [Log] Log out element found 
+2016-10-13 15:24:03,541 INFO  [Log] Logout img clicked 
+2016-10-13 17:37:40,194 INFO  [Log] New driver instantiated 
+2016-10-13 17:37:40,333 INFO  [Log] Log In link element found 
+2016-10-13 17:37:40,355 INFO  [Log] Click action performed on Landing Page 
+2016-10-13 17:37:43,904 INFO  [Log] Username text box found 
+2016-10-13 17:37:43,931 INFO  [Log] Username entered in the Username text box 
+2016-10-13 17:37:43,939 INFO  [Log] Password text box found 
+2016-10-13 17:37:43,963 INFO  [Log] Password entered in the Password text box 
+2016-10-13 17:37:44,987 INFO  [Log] Submit button found 
+2016-10-13 17:37:45,714 INFO  [Log] Login button clicked 
+2016-10-13 17:37:46,244 INFO  [Log] My Account name element found 
+2016-10-13 17:37:46,257 INFO  [Log] Account name identification performed 
+2016-10-13 17:37:46,265 INFO  [Log] Log out element found 
+2016-10-13 17:37:46,282 INFO  [Log] Logout img clicked 
+2016-10-13 17:37:47,318 INFO  [Log] Log In link element found 
+2016-10-13 17:37:47,347 INFO  [Log] Click action performed on Landing Page 
+2016-10-13 17:37:47,561 INFO  [Log] Username text box found 
+2016-10-13 17:37:47,584 INFO  [Log] Username entered in the Username text box 
+2016-10-13 17:37:47,592 INFO  [Log] Password text box found 
+2016-10-13 17:37:47,615 INFO  [Log] Password entered in the Password text box 
+2016-10-13 17:37:48,643 INFO  [Log] Submit button found 
+2016-10-13 17:37:48,683 INFO  [Log] Login button clicked 
+2016-10-13 17:37:49,609 INFO  [Log] My Account name element found 
+2016-10-13 17:37:49,624 INFO  [Log] Account name identification performed 
+2016-10-13 17:37:49,634 INFO  [Log] Log out element found 
+2016-10-13 17:37:49,655 INFO  [Log] Logout img clicked 
+2016-10-13 17:37:50,691 INFO  [Log] Log In link element found 
+2016-10-13 17:37:50,728 INFO  [Log] Click action performed on Landing Page 
+2016-10-13 17:37:50,955 INFO  [Log] Username text box found 
+2016-10-13 17:37:50,981 INFO  [Log] Username entered in the Username text box 
+2016-10-13 17:37:50,988 INFO  [Log] Password text box found 
+2016-10-13 17:37:51,009 INFO  [Log] Password entered in the Password text box 
+2016-10-13 17:37:52,012 INFO  [Log] Submit button found 
+2016-10-13 17:37:52,028 INFO  [Log] Login button clicked 
+2016-10-13 17:37:55,560 INFO  [Log] My Account name element found 
+2016-10-13 17:37:55,591 INFO  [Log] Account name identification performed 
+2016-10-13 17:37:55,597 INFO  [Log] Log out element found 
+2016-10-13 17:37:55,629 INFO  [Log] Logout img clicked 
+2016-10-13 17:42:57,109 INFO  [Log] New driver instantiated 
+2016-10-13 17:42:57,288 INFO  [Log] Log In link element found 
+2016-10-13 17:42:57,310 INFO  [Log] Click action performed on Landing Page 
+2016-10-13 17:43:01,919 INFO  [Log] Username text box found 
+2016-10-13 17:43:01,995 INFO  [Log] Username entered in the Username text box 
+2016-10-13 17:43:02,005 INFO  [Log] Password text box found 
+2016-10-13 17:43:02,034 INFO  [Log] Password entered in the Password text box 
+2016-10-13 17:43:03,046 INFO  [Log] Submit button found 
+2016-10-13 17:43:03,771 INFO  [Log] Login button clicked 
+2016-10-13 17:43:52,880 INFO  [Log] My Account name element found 
+2016-10-13 17:43:52,911 INFO  [Log] Account name identification performed 
+2016-10-13 17:43:52,914 INFO  [Log] Log out element found 
+2016-10-13 17:43:52,956 INFO  [Log] Logout img clicked 
+2016-10-13 17:43:53,963 INFO  [Log] Log In link element found 
+2016-10-13 17:43:53,991 INFO  [Log] Click action performed on Landing Page 
+2016-10-13 17:43:54,554 INFO  [Log] Username text box found 
+2016-10-13 17:43:54,585 INFO  [Log] Username entered in the Username text box 
+2016-10-13 17:43:54,585 INFO  [Log] Password text box found 
+2016-10-13 17:43:54,616 INFO  [Log] Password entered in the Password text box 
+2016-10-13 17:43:55,634 INFO  [Log] Submit button found 
+2016-10-13 17:43:55,681 INFO  [Log] Login button clicked 
+2016-10-13 17:43:56,681 INFO  [Log] My Account name element found 
+2016-10-13 17:43:56,712 INFO  [Log] Account name identification performed 
+2016-10-13 17:43:56,718 INFO  [Log] Log out element found 
+2016-10-13 17:43:56,753 INFO  [Log] Logout img clicked 
+2016-10-13 17:43:57,757 INFO  [Log] Log In link element found 
+2016-10-13 17:43:57,803 INFO  [Log] Click action performed on Landing Page 
+2016-10-13 17:44:07,274 INFO  [Log] Username text box found 
+2016-10-13 17:44:07,305 INFO  [Log] Username entered in the Username text box 
+2016-10-13 17:44:07,320 INFO  [Log] Password text box found 
+2016-10-13 17:44:07,335 INFO  [Log] Password entered in the Password text box 
+2016-10-13 17:44:08,354 INFO  [Log] Submit button found 
+2016-10-13 17:44:08,385 INFO  [Log] Login button clicked 
+2016-10-13 17:44:09,144 INFO  [Log] My Account name element found 
+2016-10-13 17:44:09,160 INFO  [Log] Account name identification performed 
+2016-10-13 17:44:09,176 INFO  [Log] Log out element found 
+2016-10-13 17:44:09,191 INFO  [Log] Logout img clicked 
